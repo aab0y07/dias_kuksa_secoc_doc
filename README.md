@@ -1,2 +1,4 @@
-# dias_kuksa_secoc_doc
-documentation for secoc
+# readthedocs-template
+To be forked for technical documentation
+
+Based on [this](https://www.youtube.com/watch?v=oJsUvBQyHBs)
